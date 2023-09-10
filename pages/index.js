@@ -9,15 +9,9 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>My name is Kenneth Clark G. Auguis, I live in Cacutud, Arayat, Pampanga. I’m 21 years old.
-        My hobbies include dancing, playing video games, creating art, cooking, and my favorite activity is meditating. I enjoy spending my free time at meditation retreats, as I believe they have significantly contributed to my understanding of my mind's complexities and have greatly improved my mental well-being.
+      <p>I'm Luis Phillip A. Mallari, and I live in Arayat, Pampanga. My hobbies include watching movies, basketball, and video games. In terms of music, my favorite song is Magpakailanman by Rocksteddy, which reminds me of my late mother.
 
-        My favorite music that I always play in my spotify is
-What was I made for, everything I wanted, and Happier than ever  by Billie Eilish
-Human by Christina Perri
-I won’t give up by Jason Mraz
-
-        </p>
+      I chose IT because technology is extremely important in our time, especially in the midst of a pandemic. When a pandemic occurs, we see how important technology is and how it allows us to continue moving forward despite the pandemic.</p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
