@@ -9,10 +9,19 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-      <p>I'm Luis Phillip A. Mallari, and I live in Arayat, Pampanga. My hobbies include watching movies, basketball, and video games. In terms of music, my favorite song is Magpakailanman by Rocksteddy, which reminds me of my late mother.
-
-      I chose IT because technology is extremely important in our time, especially in the midst of a pandemic. When a pandemic occurs, we see how important technology is and how it allows us to continue moving forward despite the pandemic.</p>
-        <p>
+      <h1>10 Things That Require Zero Talent</h1>
+    <ol>
+      <li>1. Being On Time</li>
+      <li>2. Making An Effort</li>
+      <li>3. Being High Energy</li>
+      <li>4. Having A Positive Attitude</li>
+      <li>5. Being Passionate</li>
+      <li>6. Using Good Body Language</li>
+      <li>7. Being Coachable</li>
+      <li>8. Doing A Little Extra</li>
+      <li>9. Being Prepared</li>
+      <li>10. Having A Strong Work Ethic</li>
+    <ol>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
         </p>
